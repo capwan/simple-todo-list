@@ -1,5 +1,5 @@
 # Simple-todo-list
-Simple To Do List project
+Simple To Do List project with localstorage using.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
